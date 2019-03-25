@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ruoghanae.jamespetercost.com/sitemap.xml
